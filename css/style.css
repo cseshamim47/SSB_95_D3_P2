@@ -1,0 +1,19 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+div{
+	display: inline-block;
+}
+
+.child{
+	height: 136.6px;
+	width:  136.6px;
+	background-color: red;
+	float: left;
+}
+
+#block_bottom{
+	background-color: green;
+	margin-top: 136.6px; 
+}
